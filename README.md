@@ -4,7 +4,7 @@
 ## Introduction
 > This work has been accepted to ECCV 2022, and we will update the camera-ready version soon.<br>
 
-> [Gensheng Pei](https://scholar.google.com/citations?user=ihU_QpsAAAAJ&hl=en), Yazhou Yao*, Guo-Sen Xie*, Fumin Shen, Zhenmin Tang, Jinhui Tang. "Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation", European Conference on Computer Vision (ECCV), 2022.<br>
+> Gensheng Pei, Fumin Shen, Yazhou Yao, Guo-Sen Xie, Zhenmin Tang, Jinhui Tang. "Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation", European Conference on Computer Vision (ECCV), 2022.<br>
 
 
 ## Performance vs. Speed
@@ -229,7 +229,7 @@ If you find this useful in your research, please consider citing:
 ```bash
 @inproceedings{
 title={Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation},
-author={Gensheng Pei, Yazhou Yao, Guo-Sen Xie, Fumin Shen, Zhenmin Tang, Jinhui Tang},
+author={Gensheng Pei, Fumin Shen, Yazhou Yao, Guo-Sen Xie, Zhenmin Tang, Jinhui Tang},
 booktitle={European Conference on Computer Vision (ECCV)},
 year={2022}
 }
