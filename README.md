@@ -1,6 +1,6 @@
 #  HFAN: Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation (ECCV 2022)
 
-## Google Drive subscription has expired, and we have migrated models to Baidu Drive.
+## Note: Google Drive subscription has expired, and we have migrated models to Baidu Drive.
 
 ## Introduction
 > This work has been accepted to ECCV 2022.<br>
